@@ -1,0 +1,6 @@
+WebRTC (Web Real Time Chat)
+PeerJS uses WebRTC to enable people chat in real time.
+steps need further.
+in git bash terminal
+heroku login(it will ask u to press enter and go to the browser)
+https://devcenter.heroku.com/articles/heroku-cli
